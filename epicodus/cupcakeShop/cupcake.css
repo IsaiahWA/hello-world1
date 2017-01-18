@@ -1,0 +1,15 @@
+p.style1 {
+  font-size: 50;
+  font-weight: bold;
+  color: green;
+}
+
+p.style2 {
+  font-size: 50;
+  font-weight: bolder;;
+  color: pink;
+}
+
+h1.blueTitle {
+  color: purple;
+}
